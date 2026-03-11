@@ -1,0 +1,42 @@
+[
+    {
+        "nom": "Alice Martin",
+        "poste": "Développeur Senior",
+        "departement": "IT",
+        "email": "alice@techcorp.com",
+        "bureau": "3A-12",
+        "telephone": "01 23 45 67 01"
+    },
+    {
+        "nom": "Bob Durand",
+        "poste": "UI/UX Designer",
+        "departement": "Design",
+        "email": "bob@techcorp.com",
+        "bureau": "2B-05",
+        "telephone": "01 23 45 67 02"
+    },
+    {
+        "nom": "Claire Petit",
+        "poste": "Manager IT",
+        "departement": "IT",
+        "email": "claire@techcorp.com",
+        "bureau": "4A-01",
+        "telephone": "01 23 45 67 03"
+    },
+    {
+        "nom": "David Moreau",
+        "poste": "DevOps Engineer",
+        "departement": "IT",
+        "email": "david@techcorp.com",
+        "bureau": "3A-14",
+        "telephone": "01 23 45 67 04"
+    },
+    {
+        "nom": "Eva Leroy",
+        "poste": "Data Scientist",
+        "departement": "Data",
+        "email": "eva@techcorp.com",
+        "bureau": "3B-08",
+        "telephone": "01 23 45 67 05"
+    }
+]
