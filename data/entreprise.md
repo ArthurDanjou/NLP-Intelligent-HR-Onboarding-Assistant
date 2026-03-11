@@ -16,7 +16,7 @@ Le premier jour, rendez-vous à l'accueil à 9h. Vous recevrez votre badge d'acc
 
 ## Département éditorial
 
-Le département éditorial est dirigé par Claire Petit, notre Rédactrice en Chef des Fins Prématurées. L'équipe compte 15 lecteurs-fouineurs, 3 graphistes spécialisés dans le spoil de couverture, et 2 relecteurs chargés de traquer et supprimer la moindre trace de mystère dans les textes. Les réunions de service ont lieu à 9h30 chaque matin, au cours desquelles chaque membre doit hurler la fin du livre qu'il a lu la veille.
+Le département éditorial est dirigé par Flore D'Anjou, notre Rédactrice en Chef des Fins Prématurées. L'équipe compte 15 lecteurs-fouineurs, 3 graphistes spécialisés dans le spoil de couverture, et 2 relecteurs chargés de traquer et supprimer la moindre trace de mystère dans les textes. Les réunions de service ont lieu à 9h30 chaque matin, au cours desquelles chaque membre doit hurler la fin du livre qu'il a lu la veille.
 
 ## Avantages sociaux
 
