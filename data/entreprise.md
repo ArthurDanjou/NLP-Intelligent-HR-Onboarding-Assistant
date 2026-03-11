@@ -2,7 +2,9 @@
 
 ## Accueil
 
-Bienvenue chez TechCorp! Notre entreprise est spécialisée dans le développement de logiciels innovants depuis 2010. Nous comptons 200 employés répartis sur 3 sites en France.
+Bienvenue aux Éditions Divulgâche ! Nous sommes une maison d'édition pour les gens qui détestent le suspense. Le dénouement, l'identité du meurtrier ou la fin tragique de l'histoire sont imprimés en énormes lettres rouge fluo directement sur la couverture.
+ Nous comptons 200 employés répartis sur 3 sites en France.
+
 
 ## Politique de congés
 
@@ -10,23 +12,23 @@ Les employés ont droit à 25 jours de congé payés par an. Les RTT sont calcul
 
 ## Procédures d'onboarding
 
-Le premier jour, rendez-vous à l'accueil à 9h. Vous recevrez votre badge d'accès, votre ordinateur portable Dell XPS 15, et vos identifiants réseau. Une session IT est prévue à 10h.
+Le premier jour, rendez-vous à l'accueil à 9h. Vous recevrez votre badge d'accès, votre ordinateur portable, et vos identifiants réseau. Une visite des locaux et différents services est prévu à 10h.
 
-## Équipe IT
+## Département éditorial
 
-Le département IT est dirigé par Claire Petit. L'équipe compte 15 développeurs, 3 designers UI/UX et 2 ingénieurs DevOps. Les daily standups ont lieu à 9h30 chaque matin.
+Le département éditorial est dirigé par Claire Petit, notre Rédactrice en Chef des Fins Prématurées. L'équipe compte 15 lecteurs-fouineurs, 3 graphistes spécialisés dans le spoil de couverture, et 2 relecteurs chargés de traquer et supprimer la moindre trace de mystère dans les textes. Les réunions de service ont lieu à 9h30 chaque matin, au cours desquelles chaque membre doit hurler la fin du livre qu'il a lu la veille.
 
 ## Avantages sociaux
 
-Nous offrons une assurance santé complète via la mutuelle Alan, des tickets restaurant Swile (10€/jour), une prime de transport (50% Navigo), et un accès à la salle de sport partenaire.
+Nous offrons une assurance santé complète via la Mutuelle du mauvais temps, des tickets restaurant Edenblue (10€/jour), une prime de transport (50% Navigo).
 
 ## Télétravail
 
-La politique de télétravail autorise 3 jours par semaine maximum. Les mardis et jeudis sont des jours de présence obligatoire au bureau. Le matériel de télétravail est fourni.
+Les horaires sont flexibles entre 8h et 19h, avec une plage fixe de 10h à 16h. Inutile de faire durer le suspense : statistiquement, tout le monde part à 16h01. La durée hebdomadaire est de 35h. Les heures supplémentaires doivent être validées par le manager (qui vous prévient dès votre embauche qu'elles ne seront pas payées).
 
 ## Formation continue
 
-Chaque employé dispose d'un budget formation annuel de 2000€. Les demandes se font via le portail RH. Nous encourageons les certifications et conférences techniques.
+Chaque employé dispose d'un budget formation annuel de 20€. Les demandes se font via le portail RH. 
 
 ## Horaires de travail
 
@@ -34,8 +36,8 @@ Les horaires sont flexibles entre 8h et 19h, avec une plage fixe de 10h à 16h. 
 
 ## Sécurité
 
-Le code d'accès au bâtiment est renouvelé chaque mois et envoyé par email. Le WiFi entreprise utilise le SSID 'TechCorp-Secure'. En cas de problème, contactez le support IT au poste 5555.
+Le code d'accès au bâtiment est renouvelé chaque mois et envoyé par email. Conformément à notre politique interne de transparence, le code est systématiquement inscrit dans l'objet du message afin que vous n'ayez pas à l'ouvrir. Le réseau WiFi de l'entreprise utilise le SSID 'Divulgache-Secure'.
 
 ## Restauration
 
-La cantine d'entreprise est ouverte de 11h30 à 14h au rez-de-chaussée. Un espace détente avec café, thé et snacks gratuits est disponible au 2ème étage toute la journée.
+L'entreprise ne dispose pas de cantine. Une salle de repos est toutefois mise à la disposition des collaborateurs, équipée de réfrigérateurs et de fours à micro-ondes pour réchauffer les repas apportés de l'extérieur. Cet espace comprend également des fauteuils et une bibliothèque en libre-service proposant exclusivement les parutions de notre maison d'édition.
