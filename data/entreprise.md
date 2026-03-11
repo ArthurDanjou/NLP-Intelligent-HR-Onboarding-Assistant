@@ -1,4 +1,4 @@
-# TechCorp — Base de connaissances RH
+# Éditions Divulgâche — Base de connaissances RH
 
 ## Accueil
 
