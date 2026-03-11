@@ -20,18 +20,18 @@ Intelligent conversational assistant designed to support new employees at **Tech
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│           HR Onboarding Assistant — TechCorp             │
-│                                                          │
-│  📝 System prompts (LangChain LCEL)                      │
-│  🧠 Sliding window conversational memory                  │
-│  🔧 Tools:                                               │
-│     ├── 🔍 Knowledge base search (RAG)                   │
-│     ├── 👤 Employee directory                            │
-│     ├── 📅 Meeting scheduling                            │
-│     ├── 🏖️ Leave request submission                      │
-│     └── 🕐 Current date and time                         │
-│  🔄 ReAct loop: reason → act → observe                   │
-│  📊 MistralAI Embeddings + Qdrant Vector Store           │
+│           HR Onboarding Assistant — TechCorp            │
+│                                                         │
+│  📝 System prompts (LangChain LCEL)                     │
+│  🧠 Sliding window conversational memory                │
+│  🔧 Tools:                                              │
+│     ├── 🔍 Knowledge base search (RAG)                  │
+│     ├── 👤 Employee directory                           │
+│     ├── 📅 Meeting scheduling                           │
+│     ├── 🏖️ Leave request submission                     │
+│     └── 🕐 Current date and time                        │
+│  🔄 ReAct loop: reason → act → observe                  │
+│  📊 MistralAI Embeddings + Qdrant Vector Store          │
 └──────────────────────────────────────────────────────────┘
 ```
 
