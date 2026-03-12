@@ -21,9 +21,9 @@ Le département éditorial est dirigé par Flore D'Anjou, notre Rédactrice en C
 
 Nous offrons une assurance santé complète via la Mutuelle du mauvais temps, des tickets restaurant Edenblue (10€/jour), une prime de transport (50% Navigo).
 
-## Télétravail
+## Politique de télétravail
 
-Les horaires sont flexibles entre 8h et 19h, avec une plage fixe de 10h à 16h. Inutile de faire durer le suspense : statistiquement, tout le monde part à 16h01. La durée hebdomadaire est de 35h. Les heures supplémentaires doivent être validées par le manager (qui vous prévient dès votre embauche qu'elles ne seront pas payées).
+Les horaires sont flexibles entre 8h et 19h, avec une plage fixe de 10h à 16h. Inutile de faire durer le suspense : statistiquement, tout le monde part à 16h01. Les heures supplémentaires doivent être validées par le manager (qui vous prévient dès votre embauche qu'elles ne seront pas payées). Le télétravail est autorisé jusqu'à 2 jours par semaine. Il est déconseillé pour éviter de perdre le contact avec les collègues et de ne pas être au courant des dernières révélations. Il est interdit pour les nouveaux membres, il faut avoir 2 mois d'ancienneté pour y prétendre.
 
 ## Aménagement des bureaux et Open Spaces
 
@@ -32,9 +32,9 @@ Dès votre arrivée au rez-de-chaussée, nos standardistes vous reçoivent à l'
 Le premier étage abrite l'open space "Sherlock". Contrairement au célèbre détective, le service Presse qui l'occupe ne cherche pas à préserver le mystère, mais à le diffuser le plus vite possible. Dans l'aile A de ce même étage, le service Juridique dispose de bureaux fermés, offrant la confidentialité nécessaire pour gérer les litiges avec les auteurs dont nous avons révélé les intrigues.
 Le deuxième étage est dédié au cœur de notre production littéraire avec l'open space "Dumbledore" (un nom choisi en hommage à l'un des dénouements les plus tristement divulgués des années 2000). Cet espace décloisonné regroupe les services d'Édition et de Traduction. Enfin, la directrice du service éditorial possède son propre bureau vitré à cet étage, lui permettant de superviser la destruction méthodique du suspense en temps réel.
 
-## Formation continue
+## Restauration et Cantine
 
-Chaque employé dispose d'un budget formation annuel de 20€. Les demandes se font via le portail RH. 
+L'entreprise ne dispose pas de cantine. Une salle de repos est toutefois mise à la disposition des collaborateurs, équipée de réfrigérateurs et de fours à micro-ondes pour réchauffer les repas apportés de l'extérieur. Cet espace comprend également des fauteuils et une bibliothèque en libre-service proposant exclusivement les parutions de notre maison d'édition.
 
 ## Horaires de travail
 
@@ -44,6 +44,6 @@ Les horaires sont flexibles entre 8h et 19h, avec une plage fixe de 10h à 16h. 
 
 Le code d'accès au bâtiment est renouvelé chaque mois et envoyé par email. Conformément à notre politique interne de transparence, le code est systématiquement inscrit dans l'objet du message afin que vous n'ayez pas à l'ouvrir. Le réseau WiFi de l'entreprise utilise le SSID 'Divulgache-Secure'.
 
-## Restauration et Cantine
+## Formation continue
 
-L'entreprise ne dispose pas de cantine. Une salle de repos est toutefois mise à la disposition des collaborateurs, équipée de réfrigérateurs et de fours à micro-ondes pour réchauffer les repas apportés de l'extérieur. Cet espace comprend également des fauteuils et une bibliothèque en libre-service proposant exclusivement les parutions de notre maison d'édition.
+Chaque employé dispose d'un budget formation annuel de 20€. Les demandes se font via le portail RH. 
