@@ -49,6 +49,6 @@ Les horaires sont flexibles entre 8h et 19h, avec une plage fixe de 10h à 16h. 
 
 Le code d'accès au bâtiment est renouvelé chaque mois et envoyé par email. Conformément à notre politique interne de transparence, le code est systématiquement inscrit dans l'objet du message afin que vous n'ayez pas à l'ouvrir. Le réseau WiFi de l'entreprise utilise le SSID 'Divulgache-Secure'.
 
-## Restauration
+## Restauration et Cantine
 
 L'entreprise ne dispose pas de cantine. Une salle de repos est toutefois mise à la disposition des collaborateurs, équipée de réfrigérateurs et de fours à micro-ondes pour réchauffer les repas apportés de l'extérieur. Cet espace comprend également des fauteuils et une bibliothèque en libre-service proposant exclusivement les parutions de notre maison d'édition.
