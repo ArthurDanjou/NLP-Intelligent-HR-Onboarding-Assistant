@@ -26,6 +26,10 @@ Nous offrons une assurance santé complète via la Mutuelle du mauvais temps, de
 
 Les horaires sont flexibles entre 8h et 19h, avec une plage fixe de 10h à 16h. Inutile de faire durer le suspense : statistiquement, tout le monde part à 16h01. La durée hebdomadaire est de 35h. Les heures supplémentaires doivent être validées par le manager (qui vous prévient dès votre embauche qu'elles ne seront pas payées).
 
+## OpenSpaces
+
+Notre plateau de travail est totalement décloisonné et dépourvu d'isolation phonique, garantissant ainsi qu'aucun collaborateur ne puisse garder la fin de son manuscrit secrète bien longtemps.
+
 ## Formation continue
 
 Chaque employé dispose d'un budget formation annuel de 20€. Les demandes se font via le portail RH. 
