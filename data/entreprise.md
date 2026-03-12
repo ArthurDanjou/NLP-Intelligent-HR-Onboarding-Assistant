@@ -5,7 +5,6 @@
 Bienvenue aux Éditions Divulgâche ! Nous sommes une maison d'édition pour les gens qui détestent le suspense. Le dénouement, l'identité du meurtrier ou la fin tragique de l'histoire sont imprimés en énormes lettres rouge fluo directement sur la couverture.
 Pour toute question, contactez notre standard au 07 74 00 00 00.
 
-
 ## Politique de congés
 
 Les employés ont droit à 25 jours de congé payés par an. Les RTT sont calculés au prorata temporis. Les demandes se font via le portail RH avec un préavis de 2 semaines.
@@ -29,13 +28,9 @@ Les horaires sont flexibles entre 8h et 19h, avec une plage fixe de 10h à 16h. 
 ## Aménagement des bureaux et Open Spaces
 
 L'organisation de nos locaux a été pensée pour fluidifier la communication et garantir une transparence totale.
-
 Dès votre arrivée au rez-de-chaussée, nos standardistes vous reçoivent à l'accueil pour vous orienter (et vous annoncent généralement l'issue de votre rendez-vous avant même que vous n'ayez badgé). Les équipes sont ensuite réparties sur les niveaux supérieurs :
-
 Le premier étage abrite l'open space "Sherlock". Contrairement au célèbre détective, le service Presse qui l'occupe ne cherche pas à préserver le mystère, mais à le diffuser le plus vite possible. Dans l'aile A de ce même étage, le service Juridique dispose de bureaux fermés, offrant la confidentialité nécessaire pour gérer les litiges avec les auteurs dont nous avons révélé les intrigues.
-
 Le deuxième étage est dédié au cœur de notre production littéraire avec l'open space "Dumbledore" (un nom choisi en hommage à l'un des dénouements les plus tristement divulgués des années 2000). Cet espace décloisonné regroupe les services d'Édition et de Traduction. Enfin, la directrice du service éditorial possède son propre bureau vitré à cet étage, lui permettant de superviser la destruction méthodique du suspense en temps réel.
-
 
 ## Formation continue
 
