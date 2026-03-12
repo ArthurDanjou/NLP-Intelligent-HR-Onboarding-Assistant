@@ -3,7 +3,7 @@
 ## Accueil
 
 Bienvenue aux Éditions Divulgâche ! Nous sommes une maison d'édition pour les gens qui détestent le suspense. Le dénouement, l'identité du meurtrier ou la fin tragique de l'histoire sont imprimés en énormes lettres rouge fluo directement sur la couverture.
- Nous comptons 200 employés répartis sur 3 sites en France.
+Pour toute question, contactez notre standard au 07 74 00 00 00.
 
 
 ## Politique de congés
