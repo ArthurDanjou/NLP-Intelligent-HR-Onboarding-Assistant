@@ -5,7 +5,7 @@
 
 ## Description
 
-Intelligent conversational assistant designed to support new employees at **TechCorp** during their first week. The system uses advanced NLP techniques (RAG, embeddings, agents) to answer HR questions, access employee data, schedule meetings, and manage leave requests.
+Intelligent conversational assistant designed to support new employees at **Editions Divulgâche** during their first week. The system uses advanced NLP techniques (RAG, embeddings, agents) to answer HR questions, access employee data, schedule meetings, and manage leave requests.
 
 ## Features
 
@@ -20,8 +20,8 @@ Intelligent conversational assistant designed to support new employees at **Tech
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│           HR Onboarding Assistant — TechCorp            │
-│                                                         │
+│      HR Onboarding Assistant — Editions Divulgâche       │
+│                                                          │
 │  📝 System prompts (LangChain LCEL)                     │
 │  🧠 Sliding window conversational memory                │
 │  🔧 Tools:                                              │
@@ -69,9 +69,9 @@ jupyter notebook projet.ipynb
 ```
 
 Execute cells sequentially to:
-1. Analyze tokenization of HR documents
+1. Analyse tokenisation of HR documents
 2. Create the Qdrant vector database
-3. Initialize the ReAct agent
+3. Initialise the ReAct agent
 4. Run demonstrations
 5. Launch the Gradio interface (runs on `http://127.0.0.1:7860`)
 
@@ -80,18 +80,18 @@ Execute cells sequentially to:
 ```
 data/
 ├── entreprise.md    # HR knowledge base (leave policy, remote work, etc.)
-└── employés.json    # TechCorp employee directory
+└── employés.json    # Editions Divulgâche employee directory
 ```
 
 ## Project content
 
-| TP | Concept | Usage |
-|:---|:--------|:------|
-| **TP1** | Embeddings | Vector representation of documents, cosine similarity |
-| **TP2** | BPE Tokenization | Token cost analysis, FR/EN comparison |
-| **TP3** | LLM + LangChain | ChatMistralAI configuration, messages, LCEL chains |
-| **TP4** | Agents + Memory | `@tool` decorators, ReAct loop, sliding window |
-| **TP5** | RAG + Gradio | Qdrant vector store, semantic search, interface |
+|    TP   |      Concept     |                         Usage                         |
+|:--------|:-----------------|:------------------------------------------------------|
+| **TP1** | Embeddings       | Vector representation of documents, cosine similarity |
+| **TP2** | BPE Tokenization | Token cost analysis, FR/EN comparison                 |
+| **TP3** | LLM + LangChain  | ChatMistralAI configuration, messages, LCEL chains    |
+| **TP4** | Agents + Memory  | `@tool` decorators, ReAct loop, sliding window        |
+| **TP5** | RAG + Gradio     | Qdrant vector store, semantic search, interface       |
 
 ## Technologies
 
@@ -117,14 +117,14 @@ pandas>=3.0.1
 
 - "How many days of annual leave do I have?"
 - "What is the remote work policy?"
-- "Give me Claire Petit's contact information"
-- "Schedule a meeting with the Data Science team tomorrow at 2pm"
+- "Give me Flore d'Anjou's contact information"
+- "Schedule a meeting with the editorial team tomorrow at 2pm"
 - "I want to request leave from January 15th to 20th"
 
 ## Authors
 
 - **Arthur DANJOU**
-- **Aksscel Meh-Rik**
+- **Axelle MERIC (Aksscel Meh-Rik)**
 - **Moritz von SIEMENS**
 
 *Project completed as part of the Natural Language Processing course — Master M2*
