@@ -22,16 +22,16 @@ Intelligent conversational assistant designed to support new employees at **Edit
 ┌──────────────────────────────────────────────────────────┐
 │      HR Onboarding Assistant — Editions Divulgâche       │
 │                                                          │
-│  📝 System prompts (LangChain LCEL)                     │
-│  🧠 Sliding window conversational memory                │
-│  🔧 Tools:                                              │
-│     ├── 🔍 Knowledge base search (RAG)                  │
-│     ├── 👤 Employee directory                           │
-│     ├── 📅 Meeting scheduling                           │
-│     ├── 🏖️ Leave request submission                     │
-│     └── 🕐 Current date and time                        │
-│  🔄 ReAct loop: reason → act → observe                  │
-│  📊 MistralAI Embeddings + Qdrant Vector Store          │
+│  📝 System prompts (LangChain LCEL)                      │
+│  🧠 Sliding window conversational memory                 │
+│  🔧 Tools:                                               │
+│     ├── 🔍 Knowledge base search (RAG)                   │
+│     ├── 👤 Employee directory                            │
+│     ├── 📅 Meeting scheduling                            │
+│     ├── 🏖️ Leave request submission                      │
+│     └── 🕐 Current date and time                         │
+│  🔄 ReAct loop: reason → act → observe                   │
+│  📊 MistralAI Embeddings + Qdrant Vector Store           │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -105,7 +105,7 @@ data/
 ## Main dependencies
 
 ```
-langchain>=1.2.11
+langchain>=1.2.12
 langchain-mistralai>=1.1.1
 langchain-qdrant>=1.1.0
 gradio>=6.9.0
@@ -124,7 +124,7 @@ pandas>=3.0.1
 ## Authors
 
 - **Arthur DANJOU**
-- **Axelle MERIC (Aksscel Meh-Rik)**
+- **Axelle MERIC**
 - **Moritz von SIEMENS**
 
 *Project completed as part of the Natural Language Processing course — Master M2*
