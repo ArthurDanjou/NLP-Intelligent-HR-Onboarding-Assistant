@@ -1,7 +1,7 @@
 # Intelligent HR Onboarding Assistant with RAG and LangChain
 
 **NLP Project — Master M2**  
-*Authors: Arthur DANJOU, Aksscel Meh-Rik, Moritz von SIEMENS*
+*Authors: Arthur DANJOU, Axelle MERIC, Moritz von SIEMENS*
 
 ## Description
 
